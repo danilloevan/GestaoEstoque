@@ -2,6 +2,8 @@
 
 Atividade prática desenvolvida para a disciplina de **Programação Orientada a Objetos (POO)** do curso de **Sistemas e Mídias Digitais (SMD)** da Universidade Federal do Ceará (UFC).
 
+**Questão 4 da lista de exercícios do portfólio D.**
+
 ## Informações Acadêmicas
 
 - **Aluno:** Danillo Evangelista Cabral
